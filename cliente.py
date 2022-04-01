@@ -11,5 +11,3 @@ class Cliente:
     def nome(self, nome):
         self.__nome = nome
 
-conta = Conta(123, 'samya', 55.5, 1000.0)
-conta.saca(100.0)
